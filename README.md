@@ -4,9 +4,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tompouday)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tompouday" alt="tompouday" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tompouday" target="_blank"><img src="https://img.shields.io/twitter/follow/tompouday?logo=twitter&style=for-the-badge" alt="tompouday" /></a> </p>
 
 - 🔭 I’m currently working on **character manager API.**
