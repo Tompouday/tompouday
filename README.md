@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
+<h1 align="center">Hi 👋, I'm Thomas (or Tompouday) !</h1>
 <h3 align="center">A new passionate front-end developper from Belgium 🇧🇪</h3>
 
 - 🔭 I’m currently working on **character manager API.**
