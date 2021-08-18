@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A new passionate front-end developper from Belgium 🇧🇪</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tompouday)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tompouday&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 <p align="left"> <a href="https://twitter.com/tompouday" target="_blank"><img src="https://img.shields.io/twitter/follow/tompouday?logo=twitter&style=for-the-badge" alt="tompouday" /></a> </p>
