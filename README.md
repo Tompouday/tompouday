@@ -29,13 +29,9 @@
 <a href="https://www.youtube.com/user/tompouday" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tompouday" height="30" width="40" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tompouday&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tompouday&show_icons=true&locale=en&layout=compact" alt="tompouday" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tompouday&theme=dark&show_icons=true)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tompouday&show_icons=true&locale=en" alt="tompouday" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tompouday&" alt="tompouday" /></p>
