@@ -26,7 +26,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=tompouday&show_icons=true&line_height=27&count_private=true&t&hide=prs,issues&hide_title=true&theme=dark&show)](https://github.com/Tompouday)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tompouday&theme=dark&show_icons=true)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tompouday&layout=compact&card_width=445&hide=hack&theme=dark&show)](https://github.com/Tanya-Amber-L/Tanya-Amber-L)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tompouday&" alt="tompouday" /></p>
 
