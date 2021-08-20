@@ -28,9 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tompouday&" alt="tompouday" /></p>
 
 
-
-<p align="left"> <a href="https://twitter.com/tompouday" target="_blank"><img src="https://img.shields.io/twitter/follow/tompouday?logo=twitter&style=for-the-badge" alt="tompouday" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tompouday" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tompouday" height="30" width="40" /></a>
