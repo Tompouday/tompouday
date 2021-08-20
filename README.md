@@ -23,6 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tompouday&show_icons=true&locale=en&layout=compact" alt="tompouday" /></p>
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=Tompouday-L&show_icons=true&line_height=27&count_private=true&t&hide=prs,issues&hide_title=true&theme=prussian)](https://github.com/Tompouday)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tompouday&theme=dark&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tompouday&" alt="tompouday" /></p>
