@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **many things, since it's pretty new to me.**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/Tompouday)
+- 👨‍💻 All of my projects are available at [here.](https://github.com/Tompouday)
 
-- 💬 Ask me about **anything !**
+- 💬 Ask me about **anything!**
 
 - 📫 How to reach me **thomaselserghani@gmail.com**
 
