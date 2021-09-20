@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Thomas (or Tompouday) !</h1>
 <h3 align="center">A new passionate front-end developper from Belgium 🇧🇪</h3>
 
-- 🔭 I’m currently working on **character manager API.**
+- 🔭 I’m currently working on **PHP website development.**
 
-- 🌱 I’m currently learning **javascript.**
+- 🌱 I’m currently learning **PHP.**
 
 - 👯 I’m looking to collaborate on **a lot of fun project !**
 
 - 🤝 I’m looking for help with **many things, since it's pretty new to me.**
 
-- 👨‍💻 All of my projects are available at [work in progress](work in progress)
+- 👨‍💻 All of my projects are available at [work in progress](https://github.com/Tompouday)
 
 - 💬 Ask me about **anything !**
 
