@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thomas (or Tompouday) !</h1>
 <h3 align="center">A new passionate front-end developper from Belgium 🇧🇪</h3>
 
-- 🔭 I’m currently working on **PHP website development.**
+- 🔭 I’m currently working on **Processing : Generative art !**
 
-- 🌱 I’m currently learning **PHP.**
+- 🌱 I’m currently learning ** how to make a NFT collection**
 
 - 👯 I’m looking to collaborate on **a lot of fun project !**
-
-- 🤝 I’m looking for help with **many things, since it's pretty new to me.**
 
 - 👨‍💻 All of my projects are available at [here.](https://github.com/Tompouday)
 
