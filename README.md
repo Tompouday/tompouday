@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Processing : Generative art !**
 
-- 🌱 I’m currently learning ** how to make a NFT collection**
+- 🌱 I’m currently learning **how to make a NFT collection**
 
 - 👯 I’m looking to collaborate on **a lot of fun project !**
 
